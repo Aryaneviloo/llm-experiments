@@ -1,0 +1,6482 @@
+[
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.2:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"llama3.1:8b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"MAIN: correct-hedged vs wrong-confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"REVERSE: correct-confident vs wrong-hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both confident",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Australia?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'Pride and Prejudice'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the chemical symbol for gold?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which planet is closest to the Sun?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"In what year did World War II end?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the largest ocean on Earth?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who painted the Mona Lisa?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the square root of 144?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What gas do plants absorb for photosynthesis?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Canada?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who developed the theory of general relativity?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many continents are there?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the hardest natural substance?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which element has atomic number 1?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the longest river in South America?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who was the first person to walk on the Moon?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"cw",
+  "pick":"B",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Turkey?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the boiling point of water at sea level in Celsius?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who wrote 'The Republic'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the smallest prime number?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which organ pumps blood through the body?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Brazil?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What language has the most native speakers?",
+  "order":"wc",
+  "pick":"A",
+  "correct":false,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who discovered penicillin?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the tallest mountain above sea level?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"How many sides does a hexagon have?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Which country has the city of Marrakesh?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is H2O commonly called?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"Who composed the 'Four Seasons'?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"cw",
+  "pick":"A",
+  "correct":true,
+  "parsed":true
+ },
+ {
+  "model":"qwen2.5:3b",
+  "pairing":"BASE: both hedged",
+  "q":"What is the capital of Switzerland?",
+  "order":"wc",
+  "pick":"B",
+  "correct":true,
+  "parsed":true
+ }
+]

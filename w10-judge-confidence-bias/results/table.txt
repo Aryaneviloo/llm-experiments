@@ -1,0 +1,17 @@
+
+Judge accuracy (picked the factually correct answer):
+
+model                                       llama3.1:8b  llama3.2:3b  qwen2.5:3b
+pairing                                                                         
+BASE: both confident                              0.983        0.933       1.000
+BASE: both hedged                                 1.000        0.983       0.967
+MAIN: correct-hedged vs wrong-confident           0.967        0.967       0.950
+REVERSE: correct-confident vs wrong-hedged        0.983        0.933       1.000
+
+Unparseable rate: 0.0
+
+P(judge picks 'A') per model (0.5 = no position bias):
+ model
+llama3.1:8b    0.517
+llama3.2:3b    0.479
+qwen2.5:3b     0.504

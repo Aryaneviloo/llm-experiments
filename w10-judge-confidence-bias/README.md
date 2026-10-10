@@ -28,6 +28,23 @@ llama3.1:8b    0.517
 llama3.2:3b    0.479
 qwen2.5:3b     0.504
 
+## Results (v2)
+- 48 hard factual questions, 3 local judges (llama3.2:3b, qwen2.5:3b, llama3.1:8b), 2 judge prompts.
+- MAIN (hedged-correct vs confident-wrong) was below REVERSE (confident-correct vs hedged-wrong) in all 6 model×prompt cells; 3 of 6 individually p<0.05 (paired sign test, uncorrected).
+- Per question: MAIN worse on 18, better on 7, tied on 23 (sign test p=0.043).
+- The effect is concentrated: pooled difference falls from 53 vs 17 to 12 vs 16 after removing the 10 most affected questions.
+- Larger loss where judges' baseline knowledge of the fact is weaker (7 shaky questions: mean loss 1.86; 35 solid questions: 0.46). Post hoc, small n.
+- UNKNOWABLE (12 invented questions): mixed directions, inconclusive.
+
+## Conclusions
+A small style effect appears on hard questions, driven by a few questions with plausible distractors. Not established: that it is confidence rather than the "I'm not certain" wording, that it appears when judges know nothing, or any effect of model size.
+
+## Limitations
+- 48 questions, hand-written by me, 3 small judges
+- One wrapper pair; confidence is confounded with an explicit uncertainty disclaimer
+- Analyses chosen after seeing the data; no multiple-comparison correction
+- UNKNOWABLE has 12 distinct questions
+
 
 ## Conclusions
 No measurable confidence bias on easy factual questions in 3 small local judges; the pilot is at ceiling (93-100%) and underpowered

@@ -1,0 +1,197 @@
+python: can't open file '/home/evilooo/llm-experiments/w10-judge-confidence-bias/src/judge_bias_v2.py': [Errno 2] No such file or directory
+== llama3.2:3b (loading...)
+== llama3.2:3b (loading...)
+   prompt: factual
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+   prompt: better
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+
+Parsed rate: 1.0
+
+HARD: judge accuracy (picked the factually correct answer)
+
+model                                               llama3.2:3b
+prompt  pairing                                                
+better  BASE: both confident                              0.854
+        BASE: both hedged                                 0.927
+        MAIN: correct-hedged vs wrong-confident           0.833
+        NEUTRAL: bare answers                             0.917
+        REVERSE: correct-confident vs wrong-hedged        0.865
+factual BASE: both confident                              0.917
+        BASE: both hedged                                 0.938
+        MAIN: correct-hedged vs wrong-confident           0.833
+        NEUTRAL: bare answers                             0.917
+        REVERSE: correct-confident vs wrong-hedged        0.906
+
+UNKNOWABLE: P(judge picks the CONFIDENT answer), 0.5 = no style bias
+
+model    llama3.2:3b
+prompt              
+better         0.396
+factual        0.333
+
+95% Wilson CIs:
+better   BASE: both confident                          llama3.2:3b  82/96  (0.77, 0.911)
+better   BASE: both hedged                             llama3.2:3b  89/96  (0.857, 0.964)
+better   MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+better   NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+better   REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  83/96  (0.782, 0.919)
+better   UNKNOWABLE                                    llama3.2:3b  19/48  (0.27, 0.537)
+factual  BASE: both confident                          llama3.2:3b  88/96  (0.844, 0.957)
+factual  BASE: both hedged                             llama3.2:3b  90/96  (0.87, 0.971)
+factual  MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+factual  NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+factual  REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  87/96  (0.831, 0.95)
+factual  UNKNOWABLE                                    llama3.2:3b  16/48  (0.217, 0.475)
+== qwen2.5:3b (loading...)
+   prompt: factual
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+   prompt: better
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+
+Parsed rate: 1.0
+
+HARD: judge accuracy (picked the factually correct answer)
+
+model                                               llama3.2:3b  qwen2.5:3b
+prompt  pairing                                                            
+better  BASE: both confident                              0.854       0.938
+        BASE: both hedged                                 0.927       0.917
+        MAIN: correct-hedged vs wrong-confident           0.833       0.823
+        NEUTRAL: bare answers                             0.917       0.927
+        REVERSE: correct-confident vs wrong-hedged        0.865       0.917
+factual BASE: both confident                              0.917       0.938
+        BASE: both hedged                                 0.938       0.938
+        MAIN: correct-hedged vs wrong-confident           0.833       0.896
+        NEUTRAL: bare answers                             0.917       0.927
+        REVERSE: correct-confident vs wrong-hedged        0.906       0.917
+
+UNKNOWABLE: P(judge picks the CONFIDENT answer), 0.5 = no style bias
+
+model    llama3.2:3b  qwen2.5:3b
+prompt                          
+better         0.396       0.646
+factual        0.333       0.438
+
+95% Wilson CIs:
+better   BASE: both confident                          llama3.2:3b  82/96  (0.77, 0.911)
+better   BASE: both confident                          qwen2.5:3b   90/96  (0.87, 0.971)
+better   BASE: both hedged                             llama3.2:3b  89/96  (0.857, 0.964)
+better   BASE: both hedged                             qwen2.5:3b   88/96  (0.844, 0.957)
+better   MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+better   MAIN: correct-hedged vs wrong-confident       qwen2.5:3b   79/96  (0.735, 0.886)
+better   NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+better   NEUTRAL: bare answers                         qwen2.5:3b   89/96  (0.857, 0.964)
+better   REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  83/96  (0.782, 0.919)
+better   REVERSE: correct-confident vs wrong-hedged    qwen2.5:3b   88/96  (0.844, 0.957)
+better   UNKNOWABLE                                    llama3.2:3b  19/48  (0.27, 0.537)
+better   UNKNOWABLE                                    qwen2.5:3b   31/48  (0.504, 0.766)
+factual  BASE: both confident                          llama3.2:3b  88/96  (0.844, 0.957)
+factual  BASE: both confident                          qwen2.5:3b   90/96  (0.87, 0.971)
+factual  BASE: both hedged                             llama3.2:3b  90/96  (0.87, 0.971)
+factual  BASE: both hedged                             qwen2.5:3b   90/96  (0.87, 0.971)
+factual  MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+factual  MAIN: correct-hedged vs wrong-confident       qwen2.5:3b   86/96  (0.819, 0.942)
+factual  NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+factual  NEUTRAL: bare answers                         qwen2.5:3b   89/96  (0.857, 0.964)
+factual  REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  87/96  (0.831, 0.95)
+factual  REVERSE: correct-confident vs wrong-hedged    qwen2.5:3b   88/96  (0.844, 0.957)
+factual  UNKNOWABLE                                    llama3.2:3b  16/48  (0.217, 0.475)
+factual  UNKNOWABLE                                    qwen2.5:3b   21/48  (0.307, 0.577)
+== llama3.1:8b (loading...)
+   prompt: factual
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+   prompt: better
+     0/528
+     100/528
+     200/528
+     300/528
+     400/528
+     500/528
+
+Parsed rate: 1.0
+
+HARD: judge accuracy (picked the factually correct answer)
+
+model                                               llama3.1:8b  llama3.2:3b  qwen2.5:3b
+prompt  pairing                                                                         
+better  BASE: both confident                              0.917        0.854       0.938
+        BASE: both hedged                                 0.958        0.927       0.917
+        MAIN: correct-hedged vs wrong-confident           0.885        0.833       0.823
+        NEUTRAL: bare answers                             0.979        0.917       0.927
+        REVERSE: correct-confident vs wrong-hedged        0.948        0.865       0.917
+factual BASE: both confident                              0.906        0.917       0.938
+        BASE: both hedged                                 0.948        0.938       0.938
+        MAIN: correct-hedged vs wrong-confident           0.854        0.833       0.896
+        NEUTRAL: bare answers                             0.969        0.917       0.927
+        REVERSE: correct-confident vs wrong-hedged        0.948        0.906       0.917
+
+UNKNOWABLE: P(judge picks the CONFIDENT answer), 0.5 = no style bias
+
+model    llama3.1:8b  llama3.2:3b  qwen2.5:3b
+prompt                                       
+better         0.479        0.396       0.646
+factual        0.479        0.333       0.438
+
+95% Wilson CIs:
+better   BASE: both confident                          llama3.1:8b  88/96  (0.844, 0.957)
+better   BASE: both confident                          llama3.2:3b  82/96  (0.77, 0.911)
+better   BASE: both confident                          qwen2.5:3b   90/96  (0.87, 0.971)
+better   BASE: both hedged                             llama3.1:8b  92/96  (0.898, 0.984)
+better   BASE: both hedged                             llama3.2:3b  89/96  (0.857, 0.964)
+better   BASE: both hedged                             qwen2.5:3b   88/96  (0.844, 0.957)
+better   MAIN: correct-hedged vs wrong-confident       llama3.1:8b  85/96  (0.806, 0.935)
+better   MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+better   MAIN: correct-hedged vs wrong-confident       qwen2.5:3b   79/96  (0.735, 0.886)
+better   NEUTRAL: bare answers                         llama3.1:8b  94/96  (0.927, 0.994)
+better   NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+better   NEUTRAL: bare answers                         qwen2.5:3b   89/96  (0.857, 0.964)
+better   REVERSE: correct-confident vs wrong-hedged    llama3.1:8b  91/96  (0.884, 0.978)
+better   REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  83/96  (0.782, 0.919)
+better   REVERSE: correct-confident vs wrong-hedged    qwen2.5:3b   88/96  (0.844, 0.957)
+better   UNKNOWABLE                                    llama3.1:8b  23/48  (0.345, 0.617)
+better   UNKNOWABLE                                    llama3.2:3b  19/48  (0.27, 0.537)
+better   UNKNOWABLE                                    qwen2.5:3b   31/48  (0.504, 0.766)
+factual  BASE: both confident                          llama3.1:8b  87/96  (0.831, 0.95)
+factual  BASE: both confident                          llama3.2:3b  88/96  (0.844, 0.957)
+factual  BASE: both confident                          qwen2.5:3b   90/96  (0.87, 0.971)
+factual  BASE: both hedged                             llama3.1:8b  91/96  (0.884, 0.978)
+factual  BASE: both hedged                             llama3.2:3b  90/96  (0.87, 0.971)
+factual  BASE: both hedged                             qwen2.5:3b   90/96  (0.87, 0.971)
+factual  MAIN: correct-hedged vs wrong-confident       llama3.1:8b  82/96  (0.77, 0.911)
+factual  MAIN: correct-hedged vs wrong-confident       llama3.2:3b  80/96  (0.746, 0.895)
+factual  MAIN: correct-hedged vs wrong-confident       qwen2.5:3b   86/96  (0.819, 0.942)
+factual  NEUTRAL: bare answers                         llama3.1:8b  93/96  (0.912, 0.989)
+factual  NEUTRAL: bare answers                         llama3.2:3b  88/96  (0.844, 0.957)
+factual  NEUTRAL: bare answers                         qwen2.5:3b   89/96  (0.857, 0.964)
+factual  REVERSE: correct-confident vs wrong-hedged    llama3.1:8b  91/96  (0.884, 0.978)
+factual  REVERSE: correct-confident vs wrong-hedged    llama3.2:3b  87/96  (0.831, 0.95)
+factual  REVERSE: correct-confident vs wrong-hedged    qwen2.5:3b   88/96  (0.844, 0.957)
+factual  UNKNOWABLE                                    llama3.1:8b  23/48  (0.345, 0.617)
+factual  UNKNOWABLE                                    llama3.2:3b  16/48  (0.217, 0.475)
+factual  UNKNOWABLE                                    qwen2.5:3b   21/48  (0.307, 0.577)
